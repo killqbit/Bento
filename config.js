@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: ':-)',
+	name: '🍀',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Are you winning son?',
-	greetingAfternoon: 'Drink water',
-	greetingEvening: 'Check your notes',
-	greetingNight: 'Go to sleep',
+	greetingMorning: 'おはようございます！',
+	greetingAfternoon: 'こんにちは',
+	greetingEvening: 'こんばんは,',
+	greetingNight: 'おやすみ！',
 
 	// Layout
 	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
@@ -77,7 +77,7 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'MC Wiki,
+			name: 'MC Wiki',
 			icon: 'book-text',
 			link: 'https://minecraft.wiki',
 		},
@@ -98,7 +98,7 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Searx,
+			name: 'Searx',
 			icon: 'search',
 			link: 'https://searx.be',
 		},
