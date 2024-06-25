@@ -19,7 +19,7 @@ const CONFIG = {
 	// Greetings
 	greetingMorning: 'おはようございます！',
 	greetingAfternoon: 'こんにちは',
-	greetingEvening: 'こんばんは,',
+	greetingEvening: 'こんばんは',
 	greetingNight: 'おやすみ！',
 
 	// Layout
@@ -39,12 +39,12 @@ const CONFIG = {
 	autoChangeTheme: true,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
-	changeThemeByHour: false,
+	changeThemeByHour: true,
 	hourDarkThemeActive: '17:45',
-	hourDarkThemeInactive: '07:00',
+	hourDarkThemeInactive: '08:00',
 
 	// ┌┐ ┬ ┬┌┬┐┌┬┐┌─┐┌┐┌┌─┐
 	// ├┴┐│ │ │  │ │ ││││└─┐
@@ -77,7 +77,7 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'MC Wiki',
+			name: 'MC Wiki,
 			icon: 'book-text',
 			link: 'https://minecraft.wiki',
 		},
@@ -98,7 +98,7 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Searx',
+			name: 'Searx,
 			icon: 'search',
 			link: 'https://searx.be',
 		},
