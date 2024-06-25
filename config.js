@@ -39,7 +39,7 @@ const CONFIG = {
 	autoChangeTheme: true,
 
 	// Autochange by OS
-	changeThemeByOS: true,
+	changeThemeByOS: false,
 
 	// Autochange by hour options (24hrs format, string must be in: hh:mm)
 	changeThemeByHour: true,
@@ -77,7 +77,7 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'MC Wiki,
+			name: 'MC Wiki',
 			icon: 'book-text',
 			link: 'https://minecraft.wiki',
 		},
