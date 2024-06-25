@@ -98,7 +98,7 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Searx,
+			name: 'Searx',
 			icon: 'search',
 			link: 'https://searx.be',
 		},
